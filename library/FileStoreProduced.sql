@@ -70,3 +70,6 @@ as begin
 	End
 
 	execute sp_TongHopHoaDon
+
+	select * from DonHang
+	select * from DonHangChiTiet where MaDonHang = 1
