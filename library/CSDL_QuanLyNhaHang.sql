@@ -1,10 +1,10 @@
 ﻿use master
 go
 
-create database QuanLiNhaHangHaiSan2
+create database QuanLiNhaHangHaiSan
 go
 
-use QuanLiNhaHangHaiSan2
+use QuanLiNhaHangHaiSan
 go
 
 
